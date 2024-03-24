@@ -1,0 +1,6 @@
+@JunkWebApi_HostAddress = http://localhost:5113
+
+GET {{JunkWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

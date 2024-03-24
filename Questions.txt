@@ -1,0 +1,12 @@
+﻿1- crete controller problem.
+
+2- in database why i get 2 id field
+
+3- is DTOs ok or i should not return some information from here to user, especially id?
+
+4- should i make status field in components model as Enum? 
+
+5- as i understand change quantity is separate request than actual post. should i make it patch request?
+
+6- for quantity management i want to make separate class(between controller and repository) which will handle all the checking and updating,
+	is it right way or i should make it in repository.or maybe i should just create static methods for it?
